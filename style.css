@@ -2,6 +2,11 @@ body {
   color: white;
 }
 h1{
-    color: aqua;}
+    color: aqua;
+}
+
+span {
+    color: blue
+}
 
 
